@@ -1,3 +1,7 @@
+# Codeacademy Reddit App
+
+This application will allow users to view and search posts and comments provided by the Reddit API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
