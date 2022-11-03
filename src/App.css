@@ -37,6 +37,10 @@
   }
 }
 
+.App-header {
+  align-items: top;
+}
+
 svg#redditVector{
   display:none;
 }

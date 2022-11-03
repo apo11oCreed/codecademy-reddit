@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 20 20">
+      <svg className="reddit" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 20 20">
         <use href="#redditVector" xlinkHref="#redditVector" />
       </svg>
       </header>
