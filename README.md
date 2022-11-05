@@ -2,6 +2,24 @@
 
 This application will allow users to view and search posts and comments provided by the Reddit API.
 
+## Wireframes
+
+https://drive.google.com/drive/folders/1NKWUg48mPCcqeZoL44MNHkPOFXsyrByJ?usp=sharing
+
+## Technologies used
+
+React, Redux, Stylus
+
+## Features
+
+* Users can view posts
+* Users can search posts
+* Users can view comments
+* Users can search comments
+
+## Future work
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
